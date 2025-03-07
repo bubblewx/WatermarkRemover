@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import glob
-from moviepy.video import VideoFileClip
+from moviepy.video.io import VideoFileClip
 import os
 import sys
 import argparse
