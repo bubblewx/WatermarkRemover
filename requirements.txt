@@ -7,5 +7,6 @@ Pillow===9.2.0
 torch==2.6.0
 tqdm==4.67.1
 huggingface_hub==0.25.0
-jax==0.4.14
-jaxlib==0.4.14
+numpy < 2
+jax >= 0.4.27
+jaxlib >= 0.4.27
