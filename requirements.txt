@@ -6,4 +6,5 @@ opencv_python==4.11.0.86
 Pillow==9.2.0
 torch==2.6.0
 tqdm==4.67.1
-huggingface_hub==0.14.1
+huggingface_hub==0.25.0  # or the latest version
+accelerate==0.21.0
