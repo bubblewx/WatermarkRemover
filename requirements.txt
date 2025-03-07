@@ -8,4 +8,4 @@ tqdm==4.67.1
 huggingface_hub==0.25.0
 jax >= 0.4.27
 jaxlib >= 0.4.27
-numpy == 1.21.6
+numpy == 1.23.5
