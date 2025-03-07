@@ -1,10 +1,9 @@
 ImageHash==4.3.2
 lama_cleaner==1.2.5
 moviepy==2.1.2
+numpy==1.25.0
 opencv_python==4.11.0.86
-Pillow===9.2.0
+Pillow==9.2.0
 torch==2.6.0
 tqdm==4.67.1
-huggingface_hub==0.25.0
-
-numpy == 1.23.5
+huggingface_hub==0.14.1
